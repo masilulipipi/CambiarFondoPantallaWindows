@@ -1,0 +1,13 @@
+C:\Users\52815331V.NEWTON\Documents\Visual Studio 2015\Projects\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\bin\Debug\CambiarFondoPantallaWindows.exe.config
+C:\Users\52815331V.NEWTON\Documents\Visual Studio 2015\Projects\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\obj\Debug\CambiarFondoPantallaWindows.exe
+C:\Users\52815331V.NEWTON\Documents\Visual Studio 2015\Projects\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\obj\Debug\CambiarFondoPantallaWindows.pdb
+C:\Users\52815331V.NEWTON\Documents\Visual Studio 2015\Projects\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\bin\Debug\CambiarFondoPantallaWindows.exe
+C:\Users\52815331V.NEWTON\Documents\Visual Studio 2015\Projects\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\bin\Debug\CambiarFondoPantallaWindows.pdb
+C:\Users\52815331V.NEWTON\Documents\Visual Studio 2015\Projects\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\obj\Debug\CambiarFondoPantallaWindows.csprojResolveAssemblyReference.cache
+C:\Users\ar00090132\Desktop\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\bin\Debug\CambiarFondoPantallaWindows.exe.config
+C:\Users\ar00090132\Desktop\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\bin\Debug\CambiarFondoPantallaWindows.exe
+C:\Users\ar00090132\Desktop\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\bin\Debug\CambiarFondoPantallaWindows.pdb
+C:\Users\ar00090132\Desktop\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\obj\Debug\CambiarFondoPantallaWindows.csprojAssemblyReference.cache
+C:\Users\ar00090132\Desktop\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\obj\Debug\CambiarFondoPantallaWindows.csproj.CoreCompileInputs.cache
+C:\Users\ar00090132\Desktop\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\obj\Debug\CambiarFondoPantallaWindows.exe
+C:\Users\ar00090132\Desktop\CambiarFondoPantallaWindows\CambiarFondoPantallaWindows\obj\Debug\CambiarFondoPantallaWindows.pdb
